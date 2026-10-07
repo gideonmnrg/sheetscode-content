@@ -32,3 +32,7 @@ h1{font-family:'Poppins';font-weight:700;font-size:76px;line-height:1.1;letter-s
 .list{margin-top:36px;border-bottom:2px solid var(--grid)} .sage .list{border-bottom-color:rgba(252,241,227,.28)}
 .code{font-variant-ligatures:none;background:var(--sage-xdk);color:var(--cream);border-radius:24px;font-family:'JBM';font-weight:500;white-space:pre}
 .code .f{color:#fff;font-weight:700} .code .r{color:#E2B96A} .code .c{opacity:.5}
+@font-face{font-family:'Poppins';font-weight:400;src:url(fonts/poppins/files/poppins-latin-400-normal.woff2)}
+@font-face{font-family:'Poppins';font-weight:500;src:url(fonts/poppins/files/poppins-latin-500-normal.woff2)}
+@font-face{font-family:'Poppins';font-weight:600;src:url(fonts/poppins/files/poppins-latin-600-normal.woff2)}
+@font-face{font-family:'Poppins';font-weight:700;src:url(fonts/poppins/files/poppins-latin-700-normal.woff2)}

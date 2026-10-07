@@ -1,0 +1,30 @@
+=== Instagram / TikTok ===
+
+Katanya, salah satu tanda udah dewasa: tahu uangmu habis ke mana. 😅
+
+Masalahnya, nyatat pengeluaran itu gampang dimulai, susah dilanjutin. Jadi kami bikin SheetsCode Finance OS — web app yang jalan di atas Google Sheets kamu sendiri.
+
+📝 Beli makan Rp85.000? Catat beberapa detik, sisa budget Food langsung kelihatan
+📊 Budget per kategori, ada tanda kuning sebelum jebol
+💳 Saldo bank, cash, e-wallet, cicilan, sampai kartu kredit di satu tempat
+🔔 Tagihan diingetin lewat Gmail H-7, H-3, dan H-1
+📈 Portofolio investasi, harganya ditarik dari Google Finance
+📄 Laporan tahunan tinggal ekspor ke PDF
+
+Kamu tim nyatat tiap hari, atau tim "nanti aja akhir bulan"? 👇
+
+Download sistemnya — link di bio.
+(Data di video ini contoh.)
+
+#keuanganpribadi #googlesheets #financialtracker #appsscript #sheetscode
+
+
+=== Threads ===
+
+Kegiatan dewasa yang paling nggak seru tapi paling ngaruh: nyatat setiap pengeluaran.
+
+Kami bikin Finance OS di atas Google Sheets — catat transaksi, budget per kategori, saldo semua akun, reminder tagihan via Gmail, sampai laporan tahunan PDF.
+
+Kamu nyatat tiap hari atau nunggu akhir bulan?
+
+Download sistemnya, link di bio. #keuanganpribadi

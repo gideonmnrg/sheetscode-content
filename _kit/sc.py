@@ -184,7 +184,7 @@ def render(scale=3):
     from playwright.async_api import async_playwright
     async def main():
         async with async_playwright() as p:
-            b = await p.chromium.launch()
+            b = await p.chromium.launch(executable_path='/opt/pw-browsers/chromium')
             pg = await b.new_page(viewport={'width': 1080, 'height': 1350}, device_scale_factor=scale)
             for n in range(1, TOTAL + 1):
                 await pg.goto(f'file://{D}/slide{n:02d}.html')
