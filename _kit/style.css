@@ -1,0 +1,34 @@
+@font-face{font-family:'Nunito';font-weight:600;src:url(fonts/nunito/files/nunito-latin-600-normal.woff2)}
+@font-face{font-family:'Nunito';font-weight:700;src:url(fonts/nunito/files/nunito-latin-700-normal.woff2)}
+@font-face{font-family:'Nunito';font-weight:800;src:url(fonts/nunito/files/nunito-latin-800-normal.woff2)}
+@font-face{font-family:'Raleway';font-weight:700;src:url(fonts/raleway/files/raleway-latin-700-normal.woff2)}
+@font-face{font-family:'Caveat';font-weight:700;src:url(fonts/caveat/files/caveat-latin-700-normal.woff2)}
+@font-face{font-family:'JBM';font-weight:500;src:url(fonts/jbm/files/jetbrains-mono-latin-500-normal.woff2)}
+@font-face{font-family:'JBM';font-weight:700;src:url(fonts/jbm/files/jetbrains-mono-latin-700-normal.woff2)}
+:root{--sage:#789A7C;--sage-dk:#4F6B53;--sage-xdk:#2F4A34;--sage-lt:#BFD0BC;--cream:#FCF1E3;--paper:#FFFAF2;
+--ink:#2D2A26;--ink2:#4A453E;--muted:#8A8175;--acc:#C9963F;--acct:#9A722A;--grid:#E6D9C6}
+*{margin:0;padding:0;box-sizing:border-box;font-variant-numeric:lining-nums}
+html,body{width:1080px;height:1350px}
+body{font-family:'Nunito',sans-serif;overflow:hidden}
+.slide{width:1080px;height:1350px;position:relative;padding:72px 80px 80px;display:flex;flex-direction:column}
+.cream{background:var(--cream);color:var(--ink)} .sage{background:var(--sage);color:var(--cream)}
+.slide::before{content:"";position:absolute;inset:0;pointer-events:none;background-size:120px 60px;
+background-image:linear-gradient(to right,rgba(120,154,124,.07) 1px,transparent 1px),linear-gradient(to bottom,rgba(120,154,124,.07) 1px,transparent 1px)}
+.sage::before{background-image:linear-gradient(to right,rgba(252,241,227,.07) 1px,transparent 1px),linear-gradient(to bottom,rgba(252,241,227,.07) 1px,transparent 1px)}
+.top{display:flex;justify-content:space-between;align-items:center;position:relative;z-index:2;flex-shrink:0}
+.lockup{display:flex;align-items:center;gap:16px} .lockup img{height:54px;width:auto}
+.lockup .wm{font-family:'Poppins';font-size:34px;letter-spacing:-.3px;line-height:1} .lockup .wm b{font-weight:700} .lockup .wm span{font-weight:400}
+.pg{font-family:'Raleway';font-weight:700;font-size:26px;opacity:.55;letter-spacing:1px}
+.main{flex:1;display:flex;flex-direction:column;justify-content:center;position:relative;z-index:2}
+.eyebrow{font-family:'Raleway';font-weight:700;font-size:28px;letter-spacing:3px;text-transform:uppercase;margin-bottom:18px}
+.cream .eyebrow{color:var(--sage-dk)} .sage .eyebrow{color:var(--cream);opacity:.85}
+h1{font-family:'Poppins';font-weight:700;font-size:76px;line-height:1.1;letter-spacing:-1.5px;text-wrap:balance}
+.body{font-family:'Nunito';font-weight:600;font-size:34px;line-height:1.4} .cream .body{color:var(--ink2)} .body b{font-weight:800}
+.note{font-family:'Caveat';font-weight:700;font-size:40px;line-height:1;display:inline-block;transform:rotate(-2deg);margin-left:6px}
+.cream .note{color:var(--acct)} .sage .note{color:var(--cream)}
+.item{padding:20px 0;border-top:2px solid var(--grid)} .sage .item{border-top-color:rgba(252,241,227,.28)}
+.item .t{font-family:'Poppins';font-weight:700;font-size:36px;line-height:1.2;letter-spacing:-.3px}
+.item .d{font-family:'Nunito';font-weight:600;font-size:30px;line-height:1.35;margin-top:4px} .cream .item .d{color:var(--ink2)} .sage .item .d{opacity:.9}
+.list{margin-top:36px;border-bottom:2px solid var(--grid)} .sage .list{border-bottom-color:rgba(252,241,227,.28)}
+.code{font-variant-ligatures:none;background:var(--sage-xdk);color:var(--cream);border-radius:24px;font-family:'JBM';font-weight:500;white-space:pre}
+.code .f{color:#fff;font-weight:700} .code .r{color:#E2B96A} .code .c{opacity:.5}
