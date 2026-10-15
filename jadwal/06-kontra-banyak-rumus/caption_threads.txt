@@ -1,0 +1,7 @@
+Opini kontra: sheet dengan rumus paling panjang belum tentu yang paling canggih.
+
+Kalau cuma pembuatnya yang berani ngubah, satu kolom terhapus bikin semua #REF!, dan tiap edit nunggu loading, itu tanda rumusnya terlalu ruwet.
+
+Yang lebih canggih: aturan di tabel, rumus pendek, tim bisa lanjut sendiri.
+
+Setuju atau nggak? #googlesheets

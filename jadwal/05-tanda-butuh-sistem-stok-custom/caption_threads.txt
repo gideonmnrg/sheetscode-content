@@ -1,0 +1,8 @@
+3 tanda catatan stok manual mulai kewalahan:
+1. Selisih opname makin besar tiap bulan
+2. Yang laris sering kosong, yang lain numpuk
+3. Data stok tersebar di Excel, buku, dan chat
+
+Kalau 2 dari 3 kejadian, mungkin sudah waktunya pakai sistem. Kamu centang berapa?
+
+Konsultasi custom sistem, link di bio. #manajemenstok

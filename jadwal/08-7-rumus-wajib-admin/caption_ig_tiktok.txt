@@ -1,0 +1,18 @@
+Admin kantor? Tujuh rumus ini yang paling sering kepakai tiap hari. 📋
+
+1️⃣ SUMIF: total per kategori (rekap pengeluaran)
+2️⃣ COUNTIF: hitung yang cocok (absensi, status surat)
+3️⃣ VLOOKUP: cari data dari ID (nama karyawan, harga)
+4️⃣ IF: status otomatis (Lunas / Belum)
+5️⃣ TRIM + PROPER: rapikan nama yang berantakan
+6️⃣ TODAY: sisa hari jatuh tempo
+7️⃣ FILTER: tampilkan hanya yang belum lunas
+
+Simpan buat contekan, dan kirim ke teman satu kantor. 🙌
+
+Rumus mana yang paling sering kamu pakai? 👇
+
+Butuh custom sistem untuk bisnis kamu? Konsultasi via link di bio.
+(Data di contoh ini fiktif.)
+
+#rumusexcel #googlesheets #adminkantor #tipsspreadsheet #sheetscode

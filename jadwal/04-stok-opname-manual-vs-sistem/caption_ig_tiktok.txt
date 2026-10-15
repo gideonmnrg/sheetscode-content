@@ -1,0 +1,14 @@
+Stok opname itu sama-sama ngitung barang. Bedanya ada di alurnya. 📦
+
+Contoh (fiktif): Toko Kurnia, grosir sembako, 320 SKU, opname tiap akhir bulan.
+
+📝 Manual: cetak daftar → hitung di kertas → ketik ulang ke Excel → cocokkan buku stok → cari selisih. Total ± 16 jam.
+📱 Pakai sistem: daftar barang sudah siap → input hasil hitung di HP → selisih dihitung otomatis → cek & setujui. Total ± 6 jam.
+🔍 Yang paling kerasa: selisih langsung kelihatan, jadi tinggal cek 3 barang, bukan 320.
+
+Di tempatmu, stok opname masih pakai kertas atau sudah pakai sistem? 👇
+
+Butuh custom sistem untuk bisnis kamu? Konsultasi via link di bio.
+(Data di contoh ini fiktif.)
+
+#stokopname #manajemenstok #umkm #googlesheets #sheetscode

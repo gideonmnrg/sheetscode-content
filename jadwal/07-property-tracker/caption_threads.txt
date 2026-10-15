@@ -1,0 +1,5 @@
+Kami bikin Property Tracker untuk tim agen properti: dashboard funnel dari Database sampai Akad, assign lead ke sales + email notifikasi, riwayat status otomatis, pemberkasan 14 dokumen, target mingguan, sampai absensi. Semua di atas Google Sheets.
+
+Kalau di tim kamu, bagian mana yang paling sering bikin pusing?
+
+Konsultasi custom sistem, link di bio. #customsistem
