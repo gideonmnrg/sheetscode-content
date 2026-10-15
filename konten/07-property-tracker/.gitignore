@@ -1,0 +1,7 @@
+__pycache__/
+slide*.html
+slide*.png
+img/
+app/src/
+app/index_*.html
+shots/_*.json

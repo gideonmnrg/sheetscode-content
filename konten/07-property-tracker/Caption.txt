@@ -1,0 +1,32 @@
+=== Instagram / TikTok ===
+
+Leads masuk dari Instagram, TikTok, sampai pameran. Tapi siapa yang pegang klien yang mana? 🏠
+
+Ini Property Tracker, custom sistem yang kami buat untuk tim agen properti, jalan di atas Google Sheets:
+
+📊 Dashboard funnel 8 tahap: Database sampai Akad, lengkap dengan persen dan tren bulanan
+📣 Sumber lead & proyek paling banyak closing, kelihatan tanpa bikin pivot
+🏆 Ranking Top Penjualan & Top Leads per Sales / Marketing
+🎯 Target vs actual tiap orang (A | T | U), diisi per pekan
+👤 Leads lengkap dengan PIC dan Hari Stagnan, tinggal Assign ke sales
+📧 Sales yang di-assign langsung dapat email notifikasi
+🕓 Lead History: tiap ganti status tercatat otomatis
+📁 Pemberkasan 14 dokumen, status Belum / Proses / Lengkap otomatis
+🗓️ Absensi harian + rekap bulanan, jadwal piket
+🔐 3 web app terpisah: Manager, Sales & Marketing (wajib login), Admin. Bisa dibuka di HP.
+
+Kalau tim kamu, fitur mana yang paling dibutuhkan? 👇
+
+Butuh custom sistem untuk bisnis kamu? Konsultasi via link di bio.
+(Data di konten ini dummy.)
+
+#customsistem #googlesheets #appsscript #crmproperti #sheetscode
+
+
+=== Threads ===
+
+Kami bikin Property Tracker untuk tim agen properti: dashboard funnel dari Database sampai Akad, assign lead ke sales + email notifikasi, riwayat status otomatis, pemberkasan 14 dokumen, target mingguan, sampai absensi. Semua di atas Google Sheets.
+
+Kalau di tim kamu, bagian mana yang paling sering bikin pusing?
+
+Konsultasi custom sistem, link di bio. #customsistem
