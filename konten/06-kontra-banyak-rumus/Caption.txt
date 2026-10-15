@@ -1,0 +1,29 @@
+=== Instagram / TikTok ===
+
+Opini kontra: makin banyak rumus, belum tentu makin canggih. 🙃
+
+Rumus 3 IF bersarang memang kelihatan pintar. Tapi coba lihat yang terjadi setelahnya:
+
+😵 Cuma pembuatnya yang paham. Begitu dia cuti, kerjaan berhenti.
+🔗 Satu kolom terhapus, rumus berantai ikut #REF! semua.
+🐢 Ribuan rumus dihitung ulang tiap edit, sheet jadi lemot.
+
+Yang lebih canggih justru yang sederhana: aturan diskon ditaruh di tabel, rumusnya cukup satu XLOOKUP. Diskon berubah? Ubah angka di tabel, rumusnya nggak perlu disentuh.
+
+Sheet di kantormu tim rumus panjang atau tim rumus pendek? 👇
+
+Butuh custom sistem untuk bisnis kamu? Konsultasi via link di bio.
+(Data di contoh ini fiktif.)
+
+#googlesheets #excel #rumusexcel #tipsspreadsheet #sheetscode
+
+
+=== Threads ===
+
+Opini kontra: sheet dengan rumus paling panjang belum tentu yang paling canggih.
+
+Kalau cuma pembuatnya yang berani ngubah, satu kolom terhapus bikin semua #REF!, dan tiap edit nunggu loading, itu tanda rumusnya terlalu ruwet.
+
+Yang lebih canggih: aturan di tabel, rumus pendek, tim bisa lanjut sendiri.
+
+Setuju atau nggak? #googlesheets
