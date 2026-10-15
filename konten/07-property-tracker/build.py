@@ -226,7 +226,7 @@ page(14, 'cream', f'''
 {eyebrow('Plus')}
 {h1('Data Master Lengkap, Enak Dibuka di HP')}
 <div style="display:flex;gap:26px;align-items:center;margin-top:34px">
- <div style="display:flex;gap:0;flex-shrink:0;padding-left:16px">{phone_frame(crop('m_dashboard', (0, 0, 390, 760), 'm_dash_crop'), 240, -3)}<div style="margin-left:-40px;margin-top:60px">{phone_frame(crop('m_leads', (0, 0, 390, 760), 'm_leads_crop'), 240, 3)}</div></div>
+ <div style="display:flex;gap:0;flex-shrink:0;padding-left:16px;align-items:flex-start">{phone_frame(crop('m_dashboard', (0, 0, 390, 760), 'm_dash_crop'), 240, -3)}<div style="margin-left:-40px;margin-top:60px">{phone_frame(crop('m_leads', (0, 0, 390, 760), 'm_leads_crop'), 240, 3)}</div></div>
  <div style="flex:1;border-bottom:2px solid {GRID}">{check}</div></div>
 {note('tabel otomatis jadi kartu di layar HP', 30)}''')
 
