@@ -20,7 +20,9 @@ font_css = '<style>' + ''.join(
 html = src('Index.html')
 html = re.sub(r'<link href="https://fonts.googleapis.com[^>]+>', font_css, html)
 html = html.replace('https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js', 'vendor/chart.umd.js')
-html = html.replace("<?!= include('Styles'); ?>", src('Styles.html'))
+# Scorecard dashboard 4 kolom (2 baris x 4) di layar desktop/tablet; HP tetap 2 kolom (aturan asli <=560px).
+SCORE_4 = '<style>@media(min-width:561px){.scorecards{grid-template-columns:repeat(4,1fr)}}</style>'
+html = html.replace("<?!= include('Styles'); ?>", src('Styles.html') + SCORE_4)
 html = html.replace("<?= APP_ROLE ?>", role)
 html = html.replace("<?!= include('JavaScript'); ?>",
                     '<script src="data.js"></script><script src="gas_stub.js"></script>' + server
