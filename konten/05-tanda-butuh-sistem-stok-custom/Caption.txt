@@ -1,0 +1,30 @@
+=== Instagram / TikTok ===
+
+Catatan stok manual itu nggak salah. Tapi ada titik di mana dia mulai kewalahan. 📦
+
+Ini 3 tandanya:
+
+1️⃣ Selisih opname makin besar tiap bulan. Seringnya bukan barang hilang, tapi keluar tanpa tercatat.
+2️⃣ Yang laris sering kosong, yang lain numpuk. Pembeli pulang dengan tangan kosong, uang tertahan di barang yang nggak jalan.
+3️⃣ Data stok tersebar di Excel, buku, chat WA, dan foto nota. Mau tahu stok satu barang harus buka 3 tempat.
+
+Kalau 2 dari 3 kejadian, itu saatnya pindah ke sistem. Yang dibuat sesuai cara kerja tokomu: satuan dus/pcs, stok minimum, sampai semua cabang.
+
+Dari 3 tanda ini, mana yang paling sering kejadian di tempatmu? 👇
+
+Butuh custom sistem untuk bisnis kamu? Konsultasi via link di bio.
+(Data di contoh ini fiktif.)
+
+#manajemenstok #sistemstok #umkm #googlesheets #sheetscode
+
+
+=== Threads ===
+
+3 tanda catatan stok manual mulai kewalahan:
+1. Selisih opname makin besar tiap bulan
+2. Yang laris sering kosong, yang lain numpuk
+3. Data stok tersebar di Excel, buku, dan chat
+
+Kalau 2 dari 3 kejadian, mungkin sudah waktunya pakai sistem. Kamu centang berapa?
+
+Konsultasi custom sistem, link di bio. #manajemenstok
